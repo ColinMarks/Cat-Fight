@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<jnlp spec="1.0+"
+        codebase="http://www.github.blank"
+        href="CatFight.jnlp">
+    <information>
+        <title>Cat Fight</title>
+        <vendor>Colin Marks and Christian Colby</vendor>
+        <description>A 2D fighting game about cats!</description>
+        <homepage href="http://blank"/>
+        <description kind="short">Cat Fight: 2D Fighting Game</description>
+        <offline-allowed/>
+    </information>
+    <resources>
+        <jar href="CatFight.jar"/>
+        <j2se version='1.8+'/>
+    </resources>
+    <application-desc main-class="Main"/>
+</jnlp>
